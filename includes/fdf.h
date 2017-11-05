@@ -23,7 +23,7 @@
 # define COLOR_NAVY		0x000080
 # define COLOR_MAGENTA	0xFF00FF
 
-typdef struct	s_map
+typedef struct	s_map
 {
 	int **map;
 	int row;
