@@ -6,7 +6,7 @@
 # include <string.h>
 # include <unistd.h>
 # include "mlx.h"
-# include "./libft/libft.h"
+# include "../libft/includes/libft.h"
 
 # define COLOR_WHITE	0xFFFFFF
 # define COLOR_GRAY		0x808080
